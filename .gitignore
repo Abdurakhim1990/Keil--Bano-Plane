@@ -1,0 +1,10 @@
+STM32F10x_StdPeriph_Driver/
+Startup/
+CMSIS/
+DebugConfig/
+Listings/
+Objects/
+RTE/
+*.scvd
+*.uvguix.*
+*.uvoptx
